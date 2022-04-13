@@ -9,9 +9,9 @@
 | checkout| We can use it to undo a series of tasks when we have made a change. <br> It is also used for switching between branches.|
 | commit | To save changes in the repository        |
 | fetch | We use this command when we just want to see the changes.|
-| head | current branch       |
-| merge | incorporate a branch with the main branch.|
-| origin | it is an alias for remote repository.|
+| head | Current branch       |
+| merge | Incorporate a branch with the main branch.|
+| origin | It is an alias for remote repository.|
 | up-stream | Each repository we clone from is called up-stream.|
 | down-stream  | It is known as the local repository. |
 | repository |Repository, or repo for short, is an environment for storing projects.|
