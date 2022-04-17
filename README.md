@@ -18,3 +18,9 @@
 | pull | This command is exactly like the fetch command, downloading information from the remote repository<br> and merging it into the local repository version.|
 | push | To add a project to the github remote repository.|
 | stash | When we do not want to commit changes and keep it temporarily somewhere.|
+
+# mahsa  edited Ehsan.Git.
+
+|clone | We use git clone command to point to an existing repository and create a clone or copy of the target repository.|
+|rebase|Rebis is a way to integrate changes from one branch to another, compressing all the changes into a single patch and then merging that patch into the branch, erasing the change history.|
+|stash | At the git, this means selecting a comma from one branch and applying it to other branches .|
