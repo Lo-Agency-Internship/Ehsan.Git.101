@@ -20,6 +20,7 @@
 | stash | When we do not want to commit changes and keep it temporarily somewhere.|
 
 # mahsa  edited Ehsan.Git.
+
 | Words | Explanation  |
 | :------------ |:---------------:|
 |clone | We use git clone command to point to an existing repository and create a clone or copy of the target repository.|
